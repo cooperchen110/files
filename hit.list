@@ -1,0 +1,88 @@
+# DOMAIN,client.amplifi.com
+# DOMAIN-SUFFIX,alphassl.com
+# USER-AGENT,TeamViewer*
+# PROCESS-NAME,ss-local
+# IP-CIDR,185.188.33.0/24,no-resolve
+# IP-CIDR,185.188.34.0/24
+# DOMAIN-KEYWORD,dlercloud
+# URL-REGEX,^http://google\.com
+# GEOIP,US
+# GEOIP,US,no-resolve
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,hit.edu.cn
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,epnet.com
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,aiaa.org
+DOMAIN-SUFFIX,scitation.org
+DOMAIN-SUFFIX,annualreviews.org
+DOMAIN-SUFFIX,aps.org
+DOMAIN-SUFFIX,cnbooksearch.com
+DOMAIN-SUFFIX,epnet.com
+DOMAIN-SUFFIX,asme.org
+DOMAIN-SUFFIX,ascelibrary.org
+DOMAIN-SUFFIX,ams.org
+DOMAIN-SUFFIX,begellhouse.com
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,emerald.com
+DOMAIN-SUFFIX,oadds.cn
+DOMAIN-SUFFIX,taylorfrancis.com
+DOMAIN-SUFFIX,cell.com
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,calis.edu.cn
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,theiet.org
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,iop.org
+DOMAIN-SUFFIX,highwirepress.com
+DOMAIN-SUFFIX,indarticles.com
+DOMAIN-SUFFIX,emerald.com
+DOMAIN-SUFFIX,proquest.com
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,cnpeak.com
+DOMAIN-SUFFIX,doaj.org
+DOMAIN-SUFFIX,socolar.com
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,jove.com
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,cnpereading.com
+DOMAIN-SUFFIX,iwaponline.com
+DOMAIN-SUFFIX,icevirtuallibrary.com
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,igpublish.com
+DOMAIN-SUFFIX,sae.org
+DOMAIN-SUFFIX,spiedigitallibrary.org
+DOMAIN-SUFFIX,siam.org
+DOMAIN-SUFFIX,rsc.org
+DOMAIN-SUFFIX,computingreviews.com
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,pqdtcn.com
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,uchicago.edu
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,harvard.edu
+DOMAIN-SUFFIX,nap.edu
+DOMAIN-SUFFIX,ntis.gov
+DOMAIN-SUFFIX,lexisnexis.com
+DOMAIN-SUFFIX,zbmath.org
+DOMAIN-SUFFIX,upenn.edu
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,eduref.org
+DOMAIN-SUFFIX,taylorfrancis.com
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,ingentaselect.com
+DOMAIN-SUFFIX,tsinghua.edu.cn
+DOMAIN-SUFFIX,nrcresearchpress.com
+DOMAIN-SUFFIX,ajnr.org
+DOMAIN-SUFFIX,metapress.com
+DOMAIN-SUFFIX,asabe.org
+DOMAIN-SUFFIX,csiro.au
+DOMAIN-SUFFIX,bepress.com
+DOMAIN-SUFFIX,ingentaconnect.com

@@ -73,14 +73,14 @@
           "type": "to-do",
           "attributes": {
             "title": "Have launch",
-            "when": "today@12:00PM",
+            "when": "today@13:00",
           }
         },
         {
           "type": "to-do",
           "attributes": {
             "title": "Work out",
-            "when": "today@4:00PM",
+            "when": "today@16:00",
           }
         },
         {
@@ -102,20 +102,6 @@
           "attributes": {
             "title": "Take a shower",
             "when": "today@22:10",
-          }
-        },
-        {
-          "type": "to-do",
-          "attributes": {
-            "title": "Haunch2",
-            "when": "today@2:00",
-          }
-        },
-        {
-          "type": "to-do",
-          "attributes": {
-            "title": "Wout2",
-            "when": "today@16:00",
           }
         },
       ]

@@ -73,14 +73,14 @@
           "type": "to-do",
           "attributes": {
             "title": "Have launch",
-            "when": "today@12:00",
+            "when": "today@12:00PM",
           }
         },
         {
           "type": "to-do",
           "attributes": {
             "title": "Work out",
-            "when": "today@16:00",
+            "when": "today@4:00PM",
           }
         },
         {

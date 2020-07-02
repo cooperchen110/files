@@ -9,12 +9,48 @@
           "attributes": {
             "title": "Morning Routine",
             "checklist-items": [
-              "Check notifications",
-              "Go to the toilet",
-              "Body measurement",
-              "Drink protein powder mixed milk"
-              "Open the curtians",
-              "Go get dress"
+              {
+                "type": "checklist-item",
+                "attributes": {
+                  "title": "Check notifications",
+                  "completed": false
+                }
+              },
+              {
+                "type": "checklist-item",
+                "attributes": {
+                  "title": "Go to the toilet",
+                  "completed": false
+                }
+              },
+              {
+                "type": "checklist-item",
+                "attributes": {
+                  "title": "Body measurement",
+                  "completed": false
+                }
+              },
+              {
+                "type": "checklist-item",
+                "attributes": {
+                  "title": "Drink protein powder mixed milk"
+                  "completed": false
+                }
+              },
+              {
+                "type": "checklist-item",
+                "attributes": {
+                  "title": "Open the curtians",
+                  "completed": false
+                }
+              },
+              {
+                "type": "checklist-item",
+                "attributes": {
+                  "title": "Go get dress"
+                  "completed": false
+                }
+              },
             ],
             "when": "today",
           }

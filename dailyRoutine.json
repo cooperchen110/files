@@ -104,6 +104,20 @@
             "when": "today@22:10",
           }
         },
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Have launch",
+            "when": "today@12:00",
+          }
+        },
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Work out",
+            "when": "today@16:00",
+          }
+        },
       ]
     }
   }

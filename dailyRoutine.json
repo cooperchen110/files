@@ -33,7 +33,7 @@
               {
                 "type": "checklist-item",
                 "attributes": {
-                  "title": "Drink protein powder mixed milk"
+                  "title": "Drink protein powder mixed milk",
                   "completed": false
                 }
               },
@@ -47,7 +47,7 @@
               {
                 "type": "checklist-item",
                 "attributes": {
-                  "title": "Go get dress"
+                  "title": "Go get dress",
                   "completed": false
                 }
               },

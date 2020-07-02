@@ -1,0 +1,74 @@
+[
+  {
+    "type": "project",
+    "attributes": {
+      "title": "RoutineToday",
+      "items": [
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Morning Routine",
+            "checklist-items": [
+              "Check notifications",
+              "Go to the toilet",
+              "Body measurement",
+              "Drink protein powder mixed milk"
+              "Open the curtians",
+              "Go get dress"
+            ],
+            "when": "today",
+          }
+        },
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Have breakfast",
+            "when": "today@8:00",
+          }
+        },        
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Take a vitamin tablet",
+            "when": "today@10:00",
+          }
+        },
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Have launch",
+            "when": "today@12:00",
+          }
+        },        
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Work out",
+            "when": "today@16:00",
+          }
+        },        
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Have dinner",
+            "when": "today@20:00",
+          }
+        },        
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Run 5 km",
+            "when": "today@21:20",
+          }
+        },        
+        {
+          "type": "to-do",
+          "attributes": {
+            "title": "Take a shower",
+            "when": "today@22:10",
+          }
+        },
+      ]
+    }
+  }
+]

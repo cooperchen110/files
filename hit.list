@@ -8,6 +8,7 @@
 # URL-REGEX,^http://google\.com
 # GEOIP,US
 # GEOIP,US,no-resolve
+DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,hit.edu.cn
 DOMAIN-SUFFIX,webofknowledge.com

@@ -3,4 +3,4 @@
 #!system=mac
 
 [Script]
-demoScript = type=http-request,pattern=^https://www.baidu.com script-path=https://github.com/chenbingyuan110/files/raw/master/surge-demo.js,max-size=16384,debug=true
+http-request pattern=^https://api\.github\.com/users/hadley/orgs script-path=https://github.com/chenbingyuan110/files/raw/master/surge-demo.js

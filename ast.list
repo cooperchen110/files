@@ -1,0 +1,12 @@
+# DOMAIN,client.amplifi.com
+# DOMAIN-SUFFIX,alphassl.com
+# USER-AGENT,TeamViewer*
+# PROCESS-NAME,ss-local
+# IP-CIDR,185.188.33.0/24,no-resolve
+# IP-CIDR,185.188.34.0/24
+# DOMAIN-KEYWORD,dlercloud
+# URL-REGEX,^http://google\.com
+# GEOIP,US
+# GEOIP,US,no-resolve
+DOMAIN-SUFFIX,dongfang.com
+IP-CIDR,10.18.30.0/24,no-resolve

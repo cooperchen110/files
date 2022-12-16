@@ -9,4 +9,4 @@
 # GEOIP,US
 # GEOIP,US,no-resolve
 DOMAIN-SUFFIX,dongfang.com
-IP-CIDR,10.18.30.0/24,no-resolve
+IP-CIDR,10.18.30.0/24

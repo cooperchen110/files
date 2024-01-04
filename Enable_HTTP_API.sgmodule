@@ -1,0 +1,5 @@
+#!name=Enable HTTP API
+#!desc=Enable http api
+
+[General]
+http-api = t3aNkEHJM-C8HiPE@0.0.0.0:6171

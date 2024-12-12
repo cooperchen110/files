@@ -1,0 +1,5 @@
+#!name=Cooper's Surge Module
+#!desc=Cooper's Personal Configration
+
+[Rule]
+DOMAIN-SUFFIX,sora.com,AI

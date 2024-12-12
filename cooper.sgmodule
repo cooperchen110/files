@@ -3,3 +3,4 @@
 
 [Rule]
 DOMAIN-SUFFIX,sora.com,AI
+DOMAIN-SUFFIX,sora-cdn.oaistatic.com,AI
